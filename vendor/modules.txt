@@ -1,0 +1,7 @@
+# github.com/blend/go-sdk v1.20240719.1
+## explicit; go 1.18
+github.com/blend/go-sdk/ex
+github.com/blend/go-sdk/uuid
+# github.com/golang-jwt/jwt/v5 v5.2.1
+## explicit; go 1.18
+github.com/golang-jwt/jwt/v5
